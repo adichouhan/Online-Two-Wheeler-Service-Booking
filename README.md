@@ -1,5 +1,6 @@
 # Online-Two-Wheeler-Service-Booking
 First attempt at creating a website
-Techologies used : 
-PHP HML CSS JavaScript
+<br>
+Techologies used : PHP HML CSS JavaScript
+<br>
 Frameworks : jQuery
