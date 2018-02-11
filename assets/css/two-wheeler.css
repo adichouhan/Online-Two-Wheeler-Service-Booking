@@ -1,0 +1,292 @@
+.red-star{
+color: red;
+font-size: 18px;
+}
+
+label.error{
+    color: red;
+    font-size: 12px;
+}
+
+.custom-li-back:hover{
+    background-color: #2D7B91;
+    box-shadow: inset 0px -4px 0px #2d606f;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: white;
+}
+.navbar-inverse {
+    border-radius: 0px;
+    background-color: #111;
+    back
+}
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: white;
+}
+
+.navbar-inverse{
+    margin-bottom: 0;
+}
+
+.carousel .item {
+  height: 650px;
+}
+
+
+.carousel-caption {
+
+position: absolute;
+left: 600px;
+top: 20px;
+left: 30px;
+z-index: 10;
+padding-top: 0;
+padding-bottom: 0px;
+color: #fff;
+text-align: left;
+padding-left: 2%;
+}
+.carousel-caption h3 {
+font-family: sans-serif;
+letter-spacing: -1px;
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 0;
+margin-top: 6px;
+text-align: left;
+text-shadow: 4px 1px 2px rgba(0,0,0,0.9);
+letter-spacing: 2px;
+}
+.carousel-caption p {
+margin-top: 0;
+font-size: 18px;
+text-align: left;
+text-shadow: 2px 1px 2px rgba(0,0,0,0.9);
+letter-spacing: 1px;
+}
+
+.carousel{
+    margin: 0;
+}
+#myCarousel .carousel-indicators { display: none;}
+
+.custom-padding{
+    padding: 0px;
+    
+}
+
+#home #why-us h1{
+    text-align: center;
+    margin: 50px 0;
+    
+    
+}
+
+.icon-center {
+    text-align: center;
+}
+
+#home .panel-shadow{
+
+/*  box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75); */
+     /*box-shadow: 0 2px 10px 6px rgba(10,10,10,0.8);*/
+    	box-shadow: 1px 6px 28px -1px rgba(0,0,0,0.75);
+    background-color: #f8f8f8;
+
+}
+.bg-1{
+    background: /*#2D7B91*/#45a9c5;;
+    
+    color: white
+}
+
+#home #about-us{
+    margin-left: 1%;
+    
+}
+
+#home .btn-center{
+   
+}
+
+#home #login-txt{
+   /* position: relative;
+    right: -100px;*/
+    
+}
+
+#home .btn-left-m{
+   /* margin: 60px 300px 60px 150px;*/
+    
+}
+
+.quote{
+    color: rgba(0,0,0,.1);
+    text-align: center;
+    margin-bottom: 30px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: 	#2D7B91;
+  border: none;
+}
+
+
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+
+#fade-quote-carousel.carousel .item {
+  height: 300px;
+}
+
+footer{
+    background-color: #333;
+    width: 100%;
+    color: #EEE;
+    margin: 0 auto;
+    height: 50px;
+    box-sizing: border-box;
+    padding: 10px; 
+    
+}
+
+.text-black{
+    color: #333;
+}
+
+
+
+.custom-r-height-med{
+  /*  height: 350px;*/
+    max-height: 70%;
+    min-height: 60%;
+}
+
+
+.h-h1-r{
+    font-size: 5em;
+}
+
+.h-p-r{
+     margin-top: 3%;
+    font-size: 1.1em;
+}
+
+#why-head{
+    text-shadow: 3px 3px 1px rgba(10,10,10, 0.5);
+    }
+
+
+/*.carousel-inner>.item {
+	max-height: 610px;
+}
+
+.carousel-caption {
+	left: 30%;
+    top: 80%;
+         
+}*/
+
+.text-color-black{
+    color: #111;
+}
+.panel-shadow-form{
+    
+    /*box-shadow: rgba(0, 0, 0, 0.6) 0px 2px 5px 5px;*/
+    	box-shadow: 1px 6px 28px -1px rgba(0,0,0,0.75);
+  /*  box-shadow: : 0px 50px 30px -30px rgba(0,0,0,0.9);*/
+}
+
+.form-head{
+     text-shadow: 3px 3px 1px rgba(10,10,10, 0.5);
+}
+
+#about-main-img{
+    position: relative;
+    color: white;
+    margin-top: -20px;
+    
+}
+
+#about-img{
+    filter: blur(5px) brightness(0.75);
+    
+}
+
+#about-head{
+    position: absolute;
+    top: 175px;
+    left: 38%;
+    font-size: 72px;
+}
+
+.num-group{
+    margin-top: 75px;
+    
+}
+
+.num-head{
+    font-size: 48px;
+}
+
+.num-caption{
+    font-size: 24px;
+}
+
+.about-content{
+    padding: 50px;
+}
+
+#about-us-page .row{
+    
+    margin-left: 0;
+    margin-right: 0;
+}
+.custom-r-height-small{
+    height: 250px;
+}
+
+.about-content{
+    font-size: 18px;
+}
+
+.about-content h1{
+    font-size: 38px;
+    
+}
+
+.spin-margin{
+    
+    padding-left: 5px;
+}
+
+#home-carousel
+{
+    margin-top:-10px;
+}
+
+#login-footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#learn-more , #login-btn
+{
+    min-height: 50%;
+    max-height: 70%;
+    padding: 10em;
+    box-sizing: border-box;
+}
+
+.number-plate{
+    letter-spacing: 2px;
+}
