@@ -1,6 +1,6 @@
 # Online-Two-Wheeler-Service-Booking
-First attempt at creating a website
+An online portal to book a service slot for your vehicle. You can add/remove vehicles, view the service history.
 <br>
-Techologies used : PHP HTML CSS JavaScript
+Technologies used : PHP HTML CSS JavaScript
 <br>
 Frameworks : jQuery
